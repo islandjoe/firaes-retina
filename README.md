@@ -15,15 +15,15 @@ However, I want font ligatures that are especially geared towards ES6 and ReactJ
 ---
 
 - Backticks
-- [Spread operator](issues/1)
+- [Spread operator](https://github.com/islandjoe/firaes-retina/issues/1)
 
 ---
 ![](assets/backtick.png)
 ---
 
-- [leq sign](issues/3)
-- [geq sign](issues/3)
-- [neq sign](issues/3)
+- [leq sign](https://github.com/islandjoe/firaes-retina/issues/3)
+- [geq sign](https://github.com/islandjoe/firaes-retina/issues/3)
+- [neq sign](https://github.com/islandjoe/firaes-retina/issues/3)
 - not sign
 
 ![](assets/bang.png)
